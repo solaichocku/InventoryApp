@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "InventoryApp",
+    "packageName": "com.mycompany.inventoryapp",
+    "packageFolder": "com/mycompany/inventoryapp",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "NjA0Y2U0MDE2MmZhYzVkYzI4N2Q1YjU3NjgzNjVlZTA2M2U5M2RhNDA0MjI0N2Q3NzI1MmU4YTg5ZTk4MWIxOTZjNDAzY2ZlMjZjNTQ4MmM1YTcxMDg3ZjIzODkyZjhjYzE0NTMyZjMyMmY3OTFkYmJkZDhiNmUzMDAzNjZhZTM=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "solaichocku",
+  "repository-name": "InventoryApp"
+}
